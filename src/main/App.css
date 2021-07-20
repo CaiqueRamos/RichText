@@ -1,0 +1,9 @@
+.app--body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    height: 70vh;
+    width: 50%;
+    margin: 10vh auto;
+}

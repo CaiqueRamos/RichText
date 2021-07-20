@@ -1,0 +1,59 @@
+.rich--body{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    color: black;
+    box-shadow: 1px 1px 10px 1px rgb(233, 233, 233);
+    display: flex;
+    flex-direction: column;
+}
+.actions--options{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    
+}
+.list--itens{
+    display: flex;
+    list-style: none;
+    float: right;
+    margin-top: 8vh;
+}
+.button--actions{
+    background-color: white;
+    border: none;
+    padding: 10px;
+}
+.button--actions:hover{
+    background-color: rgb(247, 247, 247);
+    border: none;
+}
+.itens{
+    margin: 1vh;
+}
+.itens img{
+    height: 5vh;
+}
+
+.actions--inputs{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 8vh;
+    height: 70%;
+}
+.actions--inputs textarea{
+    height: 4vh;
+    border: none;
+    background-color: rgba(250, 246, 246, 0.938);
+    height: 90%;
+    resize: none;
+  
+}
+.actions--inputs textarea:focus{
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+textarea{
+    font-size: 6vh;
+}
