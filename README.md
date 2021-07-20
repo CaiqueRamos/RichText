@@ -1,3 +1,6 @@
+# App feita em react que simula um Rich Text, segue exemplo do seu funcionamento
+<img src="https://github.com/CaiqueRamos/RichText/blob/master/src/main/img/video%20editor.gif?raw=true" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
